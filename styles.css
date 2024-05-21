@@ -16,8 +16,5 @@
 .user
 {
 	text-align:right;
-}
-.comment
-{
-	text-align:left;
+	font-style:italic;
 }
